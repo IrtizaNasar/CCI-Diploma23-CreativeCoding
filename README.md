@@ -54,23 +54,30 @@ N.B. The Diploma is assessed to [Level 5 Assessment Criteria Descriptors](https:
 
 <!-- At the end of this block (midway through the 2022 Spring term) you should have the following outcomes, with subheadings for methods and platforms we will use to do so. To be clear, I want you to obtain knowledge and then use that to make projects. My aim is to have every student graduate with new creative computing core knowledge and a portfolio of projects that relate that new creative computing knowledge to their chosen BA subject elsewhere at University of the Arts London (UAL). -->
 
-### Unit 1 / Block 1: "Creative coding and creative computing frameworks"
+### Unit 1 / Block 1: "Creative Coding: Methods and Frameworks"
 
-1. Code creative computing assets in relevant languages (_Knowledge_, _Process_)
+1. Demonstrate computational problem-solving skills (_Knowledge_, _Process_)
 
-- [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)
+<!-- - [JavaScript](https://en.m.wikipedia.org/wiki/JavaScript) -->
 <!-- - [C++](https://en.m.wikipedia.org/wiki/C++) -->
 
-2. Understand the use of key frameworks for creative computing (_Knowledge_, _Process_)
+2. Demonstrate an understanding of core programming principles including variables,
+loops conditional statements, arrays, and functions (_Knowledge_, _Realisation_)
 
 - [p5.js](https://p5js.org/)
 <!-- - [openFrameworks](https://openframeworks.cc/) -->
 
-3. Use online tools to collaborate and support your creative computing projects (_Enquiry_, _Communication_)
+3. Demonstrate the ability to develop your work in a broader conceptual and theoretical
+context (_Enquiry_, _Communication_)
 
-- [Slack](https://slack.com/)
+<!-- - [Slack](https://slack.com/)
 - [p5.js editor](https://editor.p5js.org/)
-- [GitHub](https://github.com/)
+-->
+
+4. Demonstrate an understanding and use of industry standards of software
+development, version control and collaborative working practices  (_Knowledge_, _Process_, _Communication_)
+
+- [GitHub](https://github.com/) 
 
 
 ## Assessment
