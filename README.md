@@ -1,4 +1,4 @@
-# Lecture/workshop slides and wiki for   Creative Coding and Creative Computing Frameworks Unit of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2023/2024 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for   Creative Coding: Methods and Frameworks Unit of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2023/2024 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
 
 ## Course content 
 
