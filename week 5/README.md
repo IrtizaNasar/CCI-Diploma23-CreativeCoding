@@ -5,6 +5,7 @@ Lecture slides:
 
 - [Arrays, Conditionals, Loops](<Arrays, Conditionals, Loops.pdf>)
 - [Common Mistakes & Debugging](<Common Mistakes & Debugging.pdf>)
+- [Interlude Presentation 03](<Interlude Presentation_03.pdf>)
 
 Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 

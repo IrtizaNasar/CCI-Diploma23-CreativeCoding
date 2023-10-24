@@ -3,9 +3,9 @@
 [Lecture recording](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d7baf5cd-45f6-4209-917f-b08500de4b59)  
 Lecture slides:
 
-- [Interlude Presentation 02](<Interlude Presentation_02 (1).pdf>)
 - [Introduction to p5.js](<Intro to p5.pdf>)
 - [Introduction to javascript](<Javascript Intro.pdf>)
+- [Interlude Presentation 02](<Interlude Presentation_02 (1).pdf>)
 
 Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
