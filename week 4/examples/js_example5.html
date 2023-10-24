@@ -1,0 +1,29 @@
+<!-- Text Hover Example -->
+
+<!DOCTYPE html>
+<html>
+
+<body>
+  <h1>Text Hover Example</h1>
+
+  <p id="paragraph">Mouse over this text to change color</p>
+
+  <script>
+    document.getElementById("paragraph").onmouseover = function() { mouseOver() };
+    
+    document.getElementById("paragraph").onmouseout = function() { mouseOut() };
+
+    function mouseOver() {
+      document.getElementById("paragraph").style.color = "orange";
+
+    }
+
+    function mouseOut() {
+      document.getElementById("paragraph").style.color = "black";
+    }
+
+  </script>
+
+</body>
+
+</html>
