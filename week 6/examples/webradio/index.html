@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 6: Web Radio Example</title>
+</head>
+<body>
+    <button id="playNTS1">Play NTS1</button>
+    <button id="playNTS2">Play NTS2</button>
+    <button id="playNTSRAP">Play NTS-RAP</button>
+    <button id="stopButton">Stop</button>
+
+    <label for="volumeControl">Volume:</label>
+    <input type="range" id="volumeControl" min="0" max="1" step="0.01" value="0.5">
+
+    <audio id="radioPlayer" preload="none"></audio>
+    
+    <div id="loadingMessage" style="display: none;">Loading...</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
