@@ -2,8 +2,12 @@
 
 ## Course content 
 
-- [See the UAL moodle page for the latest course content](https://moodle.arts.ac.uk/course/view.php?id=71219)
-- [Download the latest Creative Coding Cheat Sheet (updated each week)](https://github.com/IrtizaNasar/CCI-Diploma22-CreativeCoding/raw/main/Creative_Coding_Cheat_Sheet.pdf)
+- [Week 3](<week 3>)
+- [Week 4](<week 4>)
+- [Week 5](<week 5>)
+- [Week 6](<week 6>)
+- [See the UAL moodle page for the other course content](https://moodle.arts.ac.uk/course/view.php?id=71219)
+- [Download the latest Creative Coding Cheat Sheet](https://github.com/IrtizaNasar/CCI-Diploma22-CreativeCoding/raw/main/Creative_Coding_Cheat_Sheet.pdf)
 
 ## Information
 
@@ -26,14 +30,14 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 **Block 1** consists of three units:
 
 - Unit 1: Creative Coding: Methods and Frameworks 
-- Unit 2: 
-- Unit 3: Computational Futures: Cognitive Systems
+- Unit 2: Computational Futures, AI and Machine Learning
+- Unit 3: Creative Practice: Visual Coding and Physical Computing
 
 **Block 2** consists of three units:
 
-- Unit 4: 
-- Unit 5:  
-- Unit 6: 
+- Unit 4: Coding for Collaborative App Development
+- Unit 5: Work and the Digital Creative Industries
+- Unit 6: Creative Practice: Computational Environments
 
 ## Learning Outcomes and platforms for doing so
 
