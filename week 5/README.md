@@ -15,3 +15,9 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 1. Students will be able to create novel visuals through computational drawing
 1. Students will understand and be able to apply p5.js library functions
 1. Students will understand how to use and apply basing coding fundamentals in javascript and p5.js
+
+# For next week
+
+Read [_The Unworkable Interface_](https://moodle.arts.ac.uk/course/view.php?id=80195#section-6) by Alexander Galloway.
+
+Reflect in your process journal.

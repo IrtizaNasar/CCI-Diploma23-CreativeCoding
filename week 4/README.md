@@ -16,11 +16,14 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 1. Students will develop an understanding of frameworks.
 1. Students will understand `setup()` and `draw()` and the p5.js lifecycle
 
-# Process Journal prompt
+# For next week
 
 Think about the concept of a _interface_: what defines an interface? What are some common interfaces you can think of (what are some uncommon interfaces you can think of)?
 
+Reflect in your process journal.
+
 # Resources
 
+[Generative Design](generative-gestaltung.de/) book which was mentioned in class  
 [Javascript examples](examples)  
 [Kevin's process journal post](https://git.arts.ac.uk/pages/kevinlee/process-journal/23-10-20.html)

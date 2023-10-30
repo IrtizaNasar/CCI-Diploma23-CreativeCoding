@@ -16,6 +16,10 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 1. Students will build upon foundational knowledge of web technologies, specifically JavaScript through an introductory session.
 1. Students will develop and understanding of common debugging techniques.
 
+# For next week
+
+Reflect in your process journal.
+
 # Resources
 
 [Process journal template repository](https://git.arts.ac.uk/shaikhirtizanasar/CC-Process-Journal-Template)
