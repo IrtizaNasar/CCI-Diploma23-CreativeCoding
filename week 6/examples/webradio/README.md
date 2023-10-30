@@ -1,7 +1,8 @@
 # Web Radio 
 
-This is a simple get started example for you to get started on your Invisible Radio assignment. 
-If you decide to use web radios as part of your project you can play around with this code to integrate different web radio channels.
+This is a simple example for you to get started on your Invisible Radio assignment. 
+
+If you decide to use web radios as part of your project, you can play around with this code to integrate different web radio channels in your project.
 
 In this example you can see: 
 
