@@ -21,10 +21,10 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
 # For next week
 
-💭 Start thinking about Assignment 1: Invisible Radio.
-✍🏽 Reflect in your process journal.
+💭 Start thinking about Assignment 1: Invisible Radio.  
+✍🏽 Reflect in your process journal.  
 
 ## Homework
 
-📖 Read [The Radio as an Apparatus of Communication](Bertolt_Brecht_The_Radio_as_an_Apparatus_of_Communication.pdf) by Bertolt Brecht.
-🎨 Sketch as much of the interaction from the [Symphosizer](symphosizer.wearecollins.com/) as you can in p5.
+📖 Read [The Radio as an Apparatus of Communication](Bertolt_Brecht_The_Radio_as_an_Apparatus_of_Communication.pdf) by Bertolt Brecht.  
+🎨 Sketch as much of the interaction from the [Symphosizer](symphosizer.wearecollins.com/) as you can in p5.  
