@@ -23,16 +23,22 @@ function setup() {
     playNTS1.position(10, 520);
 
     //attach a call back to the button and assign the playRadioStation function to it
-    playNTS1.mousePressed(() => playRadioStation("https://stream-relay-geo.ntslive.net/stream", 'NTS 1'));
+    playNTS1.mousePressed(function() {
+        playRadioStation("https://stream-relay-geo.ntslive.net/stream", 'NTS 1');
+      });
 
     let playNTS2 = createButton('NTS 2');
     playNTS2.position(110, 520);
-    playNTS2.mousePressed(() => playRadioStation("https://stream-relay-geo.ntslive.net/stream2", 'NTS 2'));
+    playNTS2.mousePressed(function() {
+    playRadioStation("https://stream-relay-geo.ntslive.net/stream2", 'NTS 2');
+    });
 
     let playNTSRAP = createButton('NTS RAP');
     playNTSRAP.position(213, 520);
-    playNTSRAP.mousePressed(() => playRadioStation("https://stream-mixtape-geo.ntslive.net/mixtape22", 'NTS RAP'));
 
+    playNTSRAP.mousePressed(function() {
+        playRadioStation("https://stream-mixtape-geo.ntslive.net/mixtape22", 'NTS RAP');
+      });
     let stopButton = createButton('STOP');
     stopButton.position(500, 520);
     stopButton.mousePressed(stopRadio);
