@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+button {
+  font-size: 18px;
+  border: none;
+  border-radius: 50px;
+  padding: 18px;
+  color: white;
+  background: #ff520e;
+}
+
+button:hover {
+  background: #6c6c6c;
+}
+
+
+
+input[type="range"]::-webkit-slider-runnable-track {
+  background-color: #ff520e;
+  border-radius: 0.5rem;
+  height: 0.5rem;  
+}
+
+/* slider thumb */
+input[type="range"]::-webkit-slider-thumb {
+ -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  margin-top: -12px; /* Centers thumb on the track */
+
+  /*custom styles*/
+  background-color: #5cd5eb;
+  height: 2rem;
+  width: 1rem;
+}
+
+
+
