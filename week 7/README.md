@@ -21,7 +21,7 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 - [GUI elements](examples/GUI-elements)
 - [Map drawing](examples/map-drawing)
 - [Weather](examples/weather)
-- [webradio-p5](examples/webradio-p5)
+- [Webradio in p5](examples/webradio-p5)
 
 # For next week
 
