@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 6: Web Radio Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <h1>GUI Elements</h1>
+
+    <!-- Button -->
+    <button id="myButton">Click Me</button>
+
+    <!-- Text input -->
+    <input type="text" id="myTextInput" placeholder="Enter text">
+
+    <!-- Checkbox -->
+    <input type="checkbox" id="myCheckbox"> Check this
+
+    <!-- Radio Button -->
+    <input type="radio" name="radioGroup" id="radio1"> Option 1
+    <input type="radio" name="radioGroup" id="radio2"> Option 2
+
+    <!-- Drop Down-->
+    <select id="mySelect">
+        <option value="option1">Option 1</option>
+        <option value="option2">Option 2</option>
+      </select>
+
+    <!-- Slider -->
+    <input type="range" id="mySlider" min="0" max="100">
+
+    <!-- Data 
+        Picker-->
+    <input type="date" id="myDatepicker">
+
+
+    <!-- Tabs-->
+    <div class="tab">
+        <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+        <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+    </div>
+    
+    <!-- Tab content -->
+    <div id="London" class="tabcontent">
+        <h3>London</h3>
+        <p>London is the capital city of England.</p>
+    </div>
+    
+    <div id="Paris" class="tabcontent">
+        <h3>Paris</h3>
+        <p>Paris is the capital of France.</p>
+    </div>
+
+
+    <script src="sketch.js"></script>
+</body>
+</html>
