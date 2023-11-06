@@ -26,6 +26,9 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 # For next week
 
 💭 Continue thinking about Assignment 1: Invisible Radio.  
+✍🏼 Reflect in your process journal.
+
+## Homework
+
 🎨 Sketch a p5.js sketch using a multi-dimensional array.  
 📖 Read [_The Unworkable Interface_](https://moodle.arts.ac.uk/course/view.php?id=80195#section-6) by Alexander Galloway. Reflect with your groups and write a paragraph summary.  
-✍🏼 Reflect in your process journal.
