@@ -1,6 +1,6 @@
 # Week 7: 6 Nov 2023
 
-[Lecture recording]()  
+[Lecture recording](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bfc7d3e7-91ae-4329-9906-b08500de4bbe)  
 Lecture slides:
 
 - [GUI Elements](GUI-Elements.pdf)
@@ -31,4 +31,4 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 ## Homework
 
 🎨 Sketch a p5.js sketch using a multi-dimensional array.  
-📖 Read [_The Unworkable Interface_](https://moodle.arts.ac.uk/course/view.php?id=80195#section-6) by Alexander Galloway. Reflect with your groups and write a paragraph summary.  
+📖 Read [_The Unworkable Interface_](https://moodle.arts.ac.uk/course/view.php?id=80195#section-6) by Alexander Galloway. Reflect with your groups and write a paragraph summary.
