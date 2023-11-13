@@ -33,4 +33,5 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 ✍🏼 In your process journal: what interfaces do you encounter daily? How do you get to class, and is that an interface? If so, what to?
 
 🎨 Complete 'Cycling Data Example' assignment (page 5 [Data Formats](DataFormats.pdf) )
+
 🎨 Complete 'Current Weather Example' assignment (page 9 [Data Formats](DataFormats.pdf) )
