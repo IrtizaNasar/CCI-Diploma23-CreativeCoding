@@ -1,6 +1,6 @@
 # Week 8: 13 Nov 2023
 
-[Lecture recording]()  
+[Lecture recording](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a51ddce4-1a84-4a3d-8e84-b08500de4bd6)  
 Lecture slides:
 
 - [Data Formats](DataFormats.pdf)
@@ -31,7 +31,11 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 ## Homework
 
 ✍🏼 In your process journal: what interfaces do you encounter daily? How do you get to class, and is that an interface? If so, what to?
-
 🎨 Complete 'Cycling Data Example' assignment (page 5 [Data Formats](DataFormats.pdf) )
-
 🎨 Complete 'Current Weather Example' assignment (page 9 [Data Formats](DataFormats.pdf) )
+
+# Resources
+
+[API Refresher](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dfe5cf5a-0a52-47d4-900a-af5e0007eab2)
+
+> > > > > > > 7cb9b6f (add week 8 lecture recording)
