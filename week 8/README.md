@@ -1,4 +1,4 @@
-# Week 7: 6 Nov 2023
+# Week 8: 13 Nov 2023
 
 [Lecture recording]()  
 Lecture slides:
