@@ -25,9 +25,12 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 # For next week
 
 💭 Continue thinking about Assignment 1: Invisible Radio.  
-💭 Start thinking about Assignment 2: Invisible Radio.  
+💭 Start thinking about Assignment 2: Beautiful Data.  
 ✍🏼 Reflect in your process journal.
 
 ## Homework
 
 ✍🏼 In your process journal: what interfaces do you encounter daily? How do you get to class, and is that an interface? If so, what to?
+
+🎨 Complete 'Cycling Data Example' assignment (page 5 [Data Formats](DataFormats.pdf) )
+🎨 Complete 'Current Weather Example' assignment (page 9 [Data Formats](DataFormats.pdf) )
