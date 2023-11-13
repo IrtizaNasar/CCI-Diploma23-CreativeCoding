@@ -1,18 +1,19 @@
-# Lecture/workshop slides and wiki for   Creative Coding: Methods and Frameworks Unit of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2023/2024 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for Creative Coding: Methods and Frameworks Unit of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2023/2024 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
 
-## Course content 
+## Course content
 
 - [Week 3](<week 3>)
 - [Week 4](<week 4>)
 - [Week 5](<week 5>)
 - [Week 6](<week 6>)
 - [Week 7](<week 7>)
+- [Week 8](<week 8>)
 - [See the UAL moodle page for the other course content](https://moodle.arts.ac.uk/course/view.php?id=71219)
 - [Download the latest Creative Coding Cheat Sheet](https://github.com/IrtizaNasar/CCI-Diploma22-CreativeCoding/raw/main/Creative_Coding_Cheat_Sheet.pdf)
 
 ## Information
 
-- [All term dates](https://www.arts.ac.uk/students/term-dates) 
+- [All term dates](https://www.arts.ac.uk/students/term-dates)
 - Lecturers: Irti (Irtiza Nasar), Kevin Lee, Giulio Ammendola
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), in person at the Greencoat Building.
 - Contact us via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
@@ -23,14 +24,13 @@
 - LinkedIn Learning (formally Lynda.com) is also a great resource for learning software packages, coding or even 3D tools like Blender. You can find a link to LinkedIn Learning on <https://canvas.arts.ac.uk/>.
 - <https://wiki.cci.arts.ac.uk/> is the Wiki for all of CCI, lots of resources and tutorial there about equipment, software and content on Physical Computing, Creative Code and Digital Making.
 
-
 ## Block/Term Structure
 
 The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma) is split into two blocks of teaching. **Block 1** takes up the entire Autumn term and half of the Spring term. **Block 2** follows on, taking the second half of Spring term and the entire Summer term.
 
 **Block 1** consists of three units:
 
-- Unit 1: Creative Coding: Methods and Frameworks 
+- Unit 1: Creative Coding: Methods and Frameworks
 - Unit 2: Computational Futures, AI and Machine Learning
 - Unit 3: Creative Practice: Visual Coding and Physical Computing
 
@@ -67,28 +67,25 @@ N.B. The Diploma is assessed to [Level 5 Assessment Criteria Descriptors](https:
 <!-- - [C++](https://en.m.wikipedia.org/wiki/C++) -->
 
 2. Demonstrate an understanding of core programming principles including variables,
-loops conditional statements, arrays, and functions (_Knowledge_, _Realisation_)
+   loops conditional statements, arrays, and functions (_Knowledge_, _Realisation_)
 
 - [p5.js](https://p5js.org/)
 <!-- - [openFrameworks](https://openframeworks.cc/) -->
 
 3. Demonstrate the ability to develop your work in a broader conceptual and theoretical
-context (_Enquiry_, _Communication_)
+   context (_Enquiry_, _Communication_)
 
 <!-- - [Slack](https://slack.com/)
 - [p5.js editor](https://editor.p5js.org/)
 -->
 
 4. Demonstrate an understanding and use of industry standards of software
-development, version control and collaborative working practices  (_Knowledge_, _Process_, _Communication_)
+   development, version control and collaborative working practices (_Knowledge_, _Process_, _Communication_)
 
-- [GitHub](https://github.com/) 
-
+- [GitHub](https://github.com/)
 
 ## Assessment
 
 <!-- At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way, via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam. -->
 
  <!-- ## Experiment/Play exercises -->
-
-
