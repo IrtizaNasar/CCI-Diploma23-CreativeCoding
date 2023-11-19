@@ -11,8 +11,7 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
 1. Students will learn how to access and manipulate several different kinds of common data formats, including CSV and JSON.
 1. Students will learn how to access data over a public API.
-1. Students will learn how to control physical computing devices over serial communication.
-1. Students will be able to apply their knowledge on data formats, serial, and API access to their own work.
+1. Students will be able to apply their knowledge on data formats and API access to their own work.
 
 # Code examples
 
