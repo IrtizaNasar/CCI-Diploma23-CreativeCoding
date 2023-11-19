@@ -5,6 +5,8 @@ This README provides a list of simple APIs that generate data, which can be used
 
 Some of these APIs require you to insert your API Key. This is a bit like a password which allow the API provider to know who is making each call. Feel free to ask more about this if you are not sure how to get one.
 
+Some of the examples below don'y have a draw() function to keep things short, of course you might need to add one depending on what you are working on.
+
 ## OpenWeather API
 - **Description**: Access weather data for over 200,000 cities with historical data over the past 40 years. This is the same API used in the weather example.
 - **p5.js Example**:
@@ -39,14 +41,26 @@ function gotData(data) {
 
 - **p5.js Example**:
 ```javascript
-function setup() {
-  loadJSON('https://api.wheretheiss.at/v1/satellites/25544', gotData);
+let issData;
+
+function preload() {
+  issData = loadJSON('https://api.wheretheiss.at/v1/satellites/25544');
 }
 
-function gotData(data) {
-  // Use the 
-  createImg(data.url);
+function setup() {
+  createCanvas(600, 600);
+  textSize(16);
+  noLoop(); 
+
+function draw() {
+  background(200);
+  if (issData) {
+    text('Name: ' + issData.name, 10, 20);
+    text('Latitude: ' + issData.latitude, 10, 40);
+    text('Longitude: ' + issData.longitude, 10, 60);
+  }
 }
+
 ```
 
 
