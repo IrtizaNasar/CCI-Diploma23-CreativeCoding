@@ -1,7 +1,6 @@
 # Week 8: 20 Nov 2023
 
-[Lecture recording]()  
-Lecture slides:
+[Lecture recording](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72de559d-33dd-48ae-9fad-b08500de4bed)  
 
 Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
@@ -13,6 +12,7 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
 # For next week
 
+💭 Start thinking about the Practical Submission brief.
 💭 Continue thinking about Assignment 1: Invisible Radio.  
 💭 Continue thinking about Assignment 2: Beautiful Data.  
 ✍🏼 Reflect in your process journal.
