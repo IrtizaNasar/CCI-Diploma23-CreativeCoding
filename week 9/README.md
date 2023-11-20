@@ -12,7 +12,7 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
 # For next week
 
-💭 Start thinking about the Practical Submission brief.
+💭 Start thinking about the Practical Submission brief.  
 💭 Continue thinking about Assignment 1: Invisible Radio.  
 💭 Continue thinking about Assignment 2: Beautiful Data.  
 ✍🏼 Reflect in your process journal.
