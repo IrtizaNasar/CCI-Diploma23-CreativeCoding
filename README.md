@@ -10,6 +10,7 @@
 - [Week 6](<week 6>)
 - [Week 7](<week 7>)
 - [Week 8](<week 8>)
+- [Week 9](<week 9>)
 - [See the UAL moodle page for the other course content](https://moodle.arts.ac.uk/course/view.php?id=71219)
 - [Download the latest Creative Coding Cheat Sheet](https://github.com/IrtizaNasar/CCI-Diploma22-CreativeCoding/raw/main/Creative_Coding_Cheat_Sheet.pdf)
 
