@@ -3,7 +3,6 @@
 [Lecture recording](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72de559d-33dd-48ae-9fad-b08500de4bed)  
 Lecture slides:
 
-- [Data Formats](DataFormats.pdf)
 - [Practical Submission Brief](https://moodle.arts.ac.uk/mod/resource/view.php?id=1137613&forceview=1)
 
 Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
