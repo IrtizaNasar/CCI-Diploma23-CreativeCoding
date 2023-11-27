@@ -2,7 +2,9 @@
 
 [Lecture recording](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=205cf0af-4117-4f2a-9fe1-b08500de4c03)
 
-<!-- Lecture slides: -->
+Lecture slides:  
+
+- [Applied Works slides](tinyurl.com/awxcci-worshop)
 
 Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
