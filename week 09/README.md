@@ -15,7 +15,7 @@ Ask questions & get support [on the Slack](https://ual-cci.slack.com/)
 
 # Code examples
 
-- [Tsunami Drawing with plotter](<../week 8/examples/tsunami-plotter>)
+- [Tsunami Drawing with plotter](<../week 08/examples/tsunami-plotter>)
 
 # For next week
 
